@@ -134,22 +134,22 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3178c6; 
-  width: 58.015%;
+  width: 57.996%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 24.222%;
+  width: 24.247%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 6.629%;
+  width: 6.627%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 5.896%;
+  width: 5.893%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 2.202%;
+  width: 2.201%;
 " class="progress-item"></span><span style="
   background-color: #41b883; 
-  width: 0.830%;
+  width: 0.829%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
   width: 0.563%;
@@ -158,7 +158,7 @@ div.ellipsis {
   width: 0.555%;
 " class="progress-item"></span><span style="
   background-color: #c6538c; 
-  width: 0.259%;
+  width: 0.258%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
   width: 0.196%;
@@ -188,7 +188,7 @@ div.ellipsis {
   width: 0.022%;
 " class="progress-item"></span><span style="
   background-color: #7e7eff; 
-  width: 0.021%;
+  width: 0.022%;
 " class="progress-item"></span><span style="
   background-color: #0298c3; 
   width: 0.014%;
@@ -248,7 +248,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">58.01%</span>
+  <span class="percent">58.00%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -264,7 +264,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">24.22%</span>
+  <span class="percent">24.25%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -296,7 +296,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C</span>
-  <span class="percent">5.90%</span>
+  <span class="percent">5.89%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
